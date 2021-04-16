@@ -3,7 +3,7 @@
 <!--
 **rizalhimself/rizalhimself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<br> [rizalhimself](https://rizalhimself.blogspot.com)
+<br> [Visit to my Private Blog's here](https://rizalhimself.blogspot.com)
 
 - 🔭  Currently learning java, C++
 
