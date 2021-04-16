@@ -5,7 +5,7 @@
 -->
 <br> [Visit to my Private Blog's here](https://rizalhimself.blogspot.com)
 
-- 🔭  Currently learning java, C++
+- 🔭  Currently learning Java, C++, and Python
 
 <h1>Stats</h1>
 <p>
